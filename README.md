@@ -22,4 +22,6 @@ Hello 👋
 <p align="center"> 
 <a href = https://github.com/mohsinshah565><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='45'></a>
 <a href = https://www.linkedin.com/in/mohsinshah565/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='45'></a>
+<a href = https://www.twitter.com/mohsinshah565/><img src='https://img.icons8.com/color/2x/twitter.png' alt='linkedin' height='45'></a>
+
 
